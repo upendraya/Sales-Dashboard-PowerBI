@@ -5,5 +5,5 @@ Technologies Used
 - Power BI (DAX, Power Query)
 - Excel for initial dataset
 
-- note:
+  Note:
 - This project uses sample data and is meant for portfolio and educational purposes only.
